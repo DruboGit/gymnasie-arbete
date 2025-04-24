@@ -1,0 +1,18 @@
+Point counter at top
+generator page:
+	First generator generates points
+	Second generator generates first gens
+	And so on
+	For every 10 gens manually bought, multiplier gets doubled
+
+Upgrades page:
+	Squares with pictures to show upgrades
+	When hover over upgrades it will show price, effect and desciption
+	After you buy an upgrade they will be faded
+
+Reset layers pages:
+	They will have a reset button, price, effects, description, maybe upgrades and stuff like that.
+
+Achievements
+
+Options
